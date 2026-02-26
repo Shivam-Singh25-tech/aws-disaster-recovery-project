@@ -9,7 +9,9 @@ This project demonstrates a complete Disaster Recovery (DR) architecture on AWS 
 - Storage Layer → S3 Cross-Region Replication  
 
 ---
+## 🏗 Architecture Design
 
+![Architecture Diagram](screenshots/architecture.png)
 ## 🏗 Architecture Design
 
 
