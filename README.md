@@ -11,7 +11,7 @@ This project demonstrates a complete Disaster Recovery (DR) architecture on AWS 
 ---
 ## 🏗 Architecture Design
 
-![Architecture Diagram](screenshots/architecture.png)
+![Architecture Diagram](Disaster-recovery.png)
 ## 🏗 Architecture Design
 
 
